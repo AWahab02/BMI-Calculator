@@ -1,16 +1,19 @@
-# bmi_calc
+#BMI Calculator
 
-A new Flutter project.
+A Flutter project made for IOS and Android devices for calculating your BMI.
 
-## Getting Started
+#Default Screen
+![image](https://user-images.githubusercontent.com/114500718/193115018-794c7744-c854-4562-ae2f-d43b2d8e21fb.png)
 
-This project is a starting point for a Flutter application.
+#Underweight conditional interface
+![image](https://user-images.githubusercontent.com/114500718/193115309-7ead590c-cc4f-4489-a99b-3c38357a31a2.png)
 
-A few resources to get you started if this is your first Flutter project:
+#Healthy BMI conditional interface
+![image](https://user-images.githubusercontent.com/114500718/193115097-bce4e517-8df5-41ef-af24-952808f1dd01.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#Overweight conditional interface
+![image](https://user-images.githubusercontent.com/114500718/193115172-7153d883-2ed2-4186-b623-af2184b703d5.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Obese conditional interface
+![image](https://user-images.githubusercontent.com/114500718/193115228-0a3c37e2-b66b-4b15-a46d-99a885439034.png)
+
